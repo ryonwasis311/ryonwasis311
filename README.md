@@ -6,7 +6,12 @@ Hi there, I'm <b>VENUS</b> 👋
 <h2 align="center">
 Software Engineer | Cloud Architect & Administrator
 </h2> 
-![Growrk Banner](https://github.com/ryonwasis311/Introduce/blob/main/public/img/Screenshot_8.png)
+<img
+  width=“964”
+  src=“https://github.com/ryonwasis311/Introduce/blob/main/public/img/Screenshot_8.png”
+  raw=true
+/>
+  <br>
 I have expertise in designing and implementing software as a service systems that are scalable and resilient.
 
 </br>
