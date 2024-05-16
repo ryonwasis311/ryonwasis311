@@ -51,9 +51,9 @@ I have expertise in designing and implementing software as a service systems tha
 ## 📝 Latest Blog Posts
 
 - [Trading tracking system](https://taptools.io)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
+- [Worked on the parcels tracking Website using Angular and Python, Nest.js, Angular](https://ship24.com)
+- [service management](https://www.ixsystems.com/)
+- [Developed blockchain trading engine based on auto bot using Golang, Python, RabbitMQ](https://app.superbots.finance)
 
 ## 📈 GitHub Stats 
 
