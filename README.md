@@ -61,5 +61,4 @@ I have expertise in designing and implementing software as a service systems tha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
 view rawREADME.txt hosted with ❤ by GitHub
