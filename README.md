@@ -8,7 +8,7 @@ Hi there, I'm <b>VENUS</b> 👋
 Software Engineer | Cloud Architect & Administrator
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I have expertise in designing and implementing software as a service systems that are scalable and resilient.
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
