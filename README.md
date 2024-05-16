@@ -3,7 +3,6 @@
 <h3 align="center">
 Hi there, I'm <b>VENUS</b> 👋
 </h3>
-
 <h2 align="center">
 Software Engineer | Cloud Architect & Administrator
 </h2> 
